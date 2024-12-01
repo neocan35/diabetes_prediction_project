@@ -4,7 +4,7 @@
 This project focuses on developing a machine learning model to predict diabetes diagnosis. Leveraging the K-Nearest Neighbors (KNN) algorithm, the aim is to accurately determine whether individuals are at risk based on their health data. By utilizing this model, I try to demonstrate how machine learning can assist in early diagnosis and preventive healthcare measures.
 
 ## Dataset
-The dataset used in this project is `diabetes.csv`, which includes the following:  
+The dataset used in this project will be `diabetes.csv`, which is a dataset that I will be prepared with my doctor relatives and it will be including the following:  
 - **Predictor Variables**:  
   - Number of pregnancies (`Pregnancies`)  
   - Glucose level (`Glucose`)  
